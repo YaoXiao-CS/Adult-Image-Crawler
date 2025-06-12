@@ -1,9 +1,9 @@
 # 记录一次对某SQ网站中图像数据的爬取
 
-| 名称              | 地址                                                                                                     | 备注                      |
-| ----------------- | -------------------------------------------------------------------------------------------------------- | ------------------------- |
-| downloaded_images | [Google Drive Link](https://drive.google.com/file/d/1Z3DwnewC_IZRvd9dMTpk4haZCArxgxBn/view?usp=drive_link)  | 存储到本地的成人图像数据  |
-| images_base64     | [Google Drive Link](https://drive.google.com/file/d/1ThPD2nldNKAohKPV8ykRe8myS7clX5ur/view?usp=drive_link)  | 转换为base64格式的txt文件 |
+| 名称              | 地址                                                                                                    | 备注                      |
+| ----------------- | ------------------------------------------------------------------------------------------------------- | ------------------------- |
+| downloaded_images | [Google Drive Link](https://drive.google.com/file/d/1Z3DwnewC_IZRvd9dMTpk4haZCArxgxBn/view?usp=drive_link) | 存储到本地的成人图像数据  |
+| images_base64     | [Google Drive Link](https://drive.google.com/file/d/1ThPD2nldNKAohKPV8ykRe8myS7clX5ur/view?usp=drive_link) | 转换为base64格式的txt文件 |
 
 本项目仅用于深度学习检测模型训练使用！解码密码为*仓库名称*！
 
@@ -15,7 +15,7 @@
 ConnectionResetError(10054, '远程主机强迫关闭了一个现有的连接。', None, 10054, None))
 ```
 
-![1749728229754](image/readme/1749728229754.jpg)
+![1749728229754](image/1749728229754.jpg)
 
 # 第一部分
 
@@ -49,7 +49,7 @@ ConnectionResetError(10054, '远程主机强迫关闭了一个现有的连接。
 
 将爬取的头像数据转换为Base64代码，并转存为一个txt文件.
 
-![1749734101404](image/readme/1749734101404.png)
+![1749734101404](image/1749734101404.png)
 
 # 第三部分
 
