@@ -5,7 +5,7 @@
 | downloaded_images | [Google Drive Link](https://drive.google.com/file/d/1Z3DwnewC_IZRvd9dMTpk4haZCArxgxBn/view?usp=drive_link) | 存储到本地的成人图像数据  |
 | images_base64     | [Google Drive Link](https://drive.google.com/file/d/1ThPD2nldNKAohKPV8ykRe8myS7clX5ur/view?usp=drive_link) | 转换为base64格式的txt文件 |
 
-本项目仅用于深度学习检测模型训练使用！解码密码为*仓库名称*！
+本项目仅用于深度学习检测模型训练使用！数据解压密码为*仓库名称*！
 
 内容概述：分页爬取该网站中三个专栏的色情图像。要求保存数据为一个CSV和一个本地图像文件夹。该CSV有两列构成，分别是名称和地址；本地图像文件夹是用于存取图像。
 
